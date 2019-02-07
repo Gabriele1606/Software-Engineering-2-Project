@@ -1,5 +1,5 @@
 # Software Engineering 2 PowerEnJoy Project
-
+Please look the project presentation: [Power EnJoy Presentation](https://github.com/Gabriele1606/Software-Engineering-2-Project/blob/master/Power%20EnJoy%20-%20Presentation.pdf)
 ## Problem assignments
 You are to develop a digital management system for a car-sharing service that exclusively employs electric cars. 
 First, the system should provide the functionality normally provided by car-sharing services.<br /> <br />
