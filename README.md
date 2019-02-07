@@ -25,3 +25,5 @@ at thispoint, the system locks the car automatically.<br />
 * Design Document (DD)
 * Integration Test Plan Document (ITPD)
 * Project Plan (PP)
+* Code Inspection (CI)
+* Gant Diagrams 
