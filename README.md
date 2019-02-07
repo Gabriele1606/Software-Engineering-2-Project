@@ -26,4 +26,4 @@ at thispoint, the system locks the car automatically.<br />
 * Integration Test Plan Document (ITPD)
 * Project Plan (PP)
 * Code Inspection (CI)
-* Gant Diagrams 
+* Gantt Diagrams 
