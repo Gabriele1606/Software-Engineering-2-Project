@@ -10,7 +10,7 @@ They receiveback a password that can be used to access the system.<br />
 current location or from a specified address.<br />
 * Among the available cars in a certain geographical region, users must beable to reserve a single car for up to one hour 
 before they pick it up.<br />
-* If a car is not picked-up within one hour from thereservation,thesystemtags thecarasavailableagain, andthereservation expires; 
+* If a car is not picked-up within one hour from the reservation,the system tags, the car as available again, and the reservation expires; 
 the user pays a fee of 1 EUR.<br />
 * A user that reaches a reserved car must be able to tell the system she’s nearby, so the system unlocks the car and the user 
 may enter.<br />
